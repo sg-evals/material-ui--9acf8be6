@@ -52,7 +52,7 @@
     "@material-ui/private-theming": "5.0.0-alpha.35",
     "@material-ui/types": "6.0.1",
     "@material-ui/utils": "5.0.0-alpha.35",
-    "clsx": "^1.0.4",
+    "clsx": "^2.1.1",
     "csstype": "^3.0.2",
     "hoist-non-react-statics": "^3.3.2",
     "jss": "^10.0.3",
